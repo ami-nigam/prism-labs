@@ -1,0 +1,116 @@
+# Prism Labs — Brand Guidelines
+
+---
+
+## 1. Brand Essence
+
+* **Core Idea:** Amplifying Human Intent through AI.
+* **Identity:** A fusion of research lab precision and creative studio imagination.
+* **Metaphor:** Light refracting through a prism — clarity, amplification, and spectrum.
+
+---
+
+## 2. Brand Voice & Messaging
+
+* **Tone:** Visionary, human-centered, profound.
+* **Voice Traits:**
+
+  * Futuristic but warm.
+  * Minimal, clear, precise.
+  * Philosophical yet grounded.
+* **Primary Tagline (always use):**
+
+  * **“Amplifying Human Intent through AI.”**
+* **Supporting Lines:**
+
+  * “From complexity to clarity.”
+  * “Where vision meets precision.”
+
+---
+
+## 3. Logo & Mark
+
+* **Concept:** Stylized prism triangle with spectral light beams.
+* **Usage:** Always on white background. Clean and minimal.
+* **Variations:**
+
+  * Full lockup: Prism icon + wordmark.
+  * Icon only: Gradient prism mark.
+* **Spacing:** Minimum clear space equal to the height of the prism icon.
+
+---
+
+## 4. Color Palette
+
+* **Base Colors:**
+
+  * White (#FFFFFF)
+  * Graphite Gray (#1E1E1E)
+  * Soft Neutral Gray (#F5F5F5)
+
+* **Spectral Accent Gradient:**
+
+  * Sky Blue (#60A5FA)
+  * Violet (#A78BFA)
+  * Magenta (#F472B6)
+  * Amber (#F59E0B)
+  * Emerald (#34D399)
+
+* **Usage:** White/gray dominate. Spectral gradient used sparingly as highlights, borders, and animated accents.
+
+---
+
+## 5. Typography
+
+* **Primary Typeface:** Geometric Sans (e.g., Inter, Söhne, or Neue Haas).
+
+  * Used for headings, hero text, navigation.
+* **Secondary Typeface:** Humanist Serif or Mono (e.g., IBM Plex Serif or Space Mono).
+
+  * Used for quotes, supporting details, principles.
+* **Style:** Modern, clear, technical with a human edge.
+
+---
+
+## 6. Imagery & Graphics
+
+* **Concepts:** Light beams, prisms, diffraction, glassy structures.
+* **Style:** Abstract, minimal, with subtle gradients and soft glows.
+* **Photography (if used):** High-contrast, abstract textures (glass, light, reflections).
+
+---
+
+## 7. UI & Digital Language
+
+* **Layout:** Clean white backgrounds, generous spacing.
+* **Elements:** Glassmorphism panels, spectral gradient lines.
+* **Animations:** Light refraction, beam splitting, spectral reveals.
+* **Iconography:** Minimal, line-based, paired with spectral gradient fills.
+
+---
+
+## 8. Brand Applications
+
+* **Website:** Hero section with animated prism refraction, products displayed like modular apps.
+* **Decks:** White backgrounds with spectral divider lines.
+* **Merch / Print:** Keep clean — prism logo embossed or gradient foil accents.
+
+---
+
+## 9. Principles in Practice
+
+1. **Human at the Core:** Design always emphasizes user agency.
+2. **Clarity from Complexity:** Visuals simplify and amplify, not overwhelm.
+3. **Rigor × Imagination:** Every element balances lab precision and studio creativity.
+
+---
+
+## 10. Don’ts
+
+* Don’t place the logo on non-white backgrounds.
+* Don’t overuse the rainbow spectrum — keep gradients controlled.
+* Don’t clutter visuals; embrace minimal space.
+
+---
+
+**Prism Labs — Amplifying Human Intent through AI.**
