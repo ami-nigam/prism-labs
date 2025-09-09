@@ -7,7 +7,7 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Router basename="/prism-labs-website">
+    <Router basename="/prism-labs">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/manifesto" element={<Manifesto />} />
