@@ -65,33 +65,29 @@ export default function App() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="mt-6 text-lg text-gray-700 max-w-xl"
             >
-              A <span className="font-bold">research lab × creative studio</span>. We refract messy ideas into structured clarity, expanding them into their
+              An <span className="font-bold">AI Lab</span> building AI-first digital products. We refract messy ideas into structured clarity, expanding them into their
               full spectrum.
             </motion.p>
 
-            <motion.div 
-              initial={{ opacity: 0, y: 12 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: 0.4 }}
-              className="mt-6 flex items-center gap-3 text-xs text-gray-600"
-            >
-              <span className="flex items-center gap-1">
-                <Beaker className="h-3.5 w-3.5" /> Lab Rigor
-              </span>
-              <span className="flex items-center gap-1">
-                <Palette className="h-3.5 w-3.5" /> Studio Imagination
-              </span>
-            </motion.div>
           </div>
 
           {/* Products */}
-          <motion.div 
-            id="products" 
-            className="grid gap-6"
-            initial={{ opacity: 0, y: 12 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 0.6 }}
-          >
+          <div>
+            <motion.h2
+              initial={{ opacity: 0, y: 12 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.6 }}
+              className="text-2xl font-bold mb-6"
+            >
+              Live Products
+            </motion.h2>
+            <motion.div 
+              id="products" 
+              className="grid gap-6"
+              initial={{ opacity: 0, y: 12 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.6 }}
+            >
             <motion.div
               initial={{ opacity: 0, y: 12 }}
               animate={{ opacity: 1, y: 0 }}
@@ -121,7 +117,7 @@ export default function App() {
               </div>
               
               <p className="text-gray-700 mb-4">
-                Transform your study materials into visual learning experiences using best-in-class AI models. Convert PDFs, notes, and documents into structured study guides with intelligent summaries and AI-generated imagery for enhanced comprehension.
+                Transform your study materials into <span className="font-bold">visual learning experiences</span> using <span className="font-bold">best-in-class AI models</span>. Convert PDFs, notes, and documents into structured study guides with intelligent summaries and AI-generated imagery for enhanced comprehension.
               </p>
               
               <div>
@@ -166,7 +162,7 @@ export default function App() {
               </div>
               
               <p className="text-gray-700 mb-4">
-                Access the world's best-in-class AI image and video models through a single, unified platform. Transform design concepts into photorealistic renderings, sketches, concept diagrams, and more by leveraging cutting-edge AI from Google, Black Forest Labs, Stability AI, Runway, Magnific, and other leading providers.
+                <span className="font-bold">Access the world's best-in-class AI image and video models through a single, unified platform.</span> Transform design concepts into photorealistic renderings, sketches, concept diagrams, and more by leveraging cutting-edge AI from <span className="font-bold">Google, Black Forest Labs, Stability AI, Runway, Magnific</span>, and other leading providers.
               </p>
               
               <div>
@@ -182,6 +178,7 @@ export default function App() {
               </SpectralCard>
             </motion.div>
           </motion.div>
+          </div>
         </div>
       </section>
 
