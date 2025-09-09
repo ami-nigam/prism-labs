@@ -2,6 +2,12 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Project Information
+
+- **Repository**: https://github.com/ami-nigam/prism-labs
+- **Live Website**: https://ami-nigam.com/prism-labs (hosted via GitHub Pages)
+- **Deployment**: Automatic deployment to GitHub Pages on push to main branch
+
 ## Development Commands
 
 - **Start development server**: `npm run dev` (runs on http://localhost:5173+ if ports are available)
